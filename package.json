@@ -15,5 +15,9 @@
 	"license": "ISC",
 	"icon": "./assets/icon.png",
 	"readme": "./readme.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/milkjs/milkjs.git"
+	},
 	"homepage": "https://discord.gg/QAvs5B6xwY"
 }
