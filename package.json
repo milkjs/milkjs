@@ -1,0 +1,19 @@
+{
+	"name": "milk.js",
+	"version": "1.1.2",
+	"description": "",
+	"main": "index.js",
+	"categories": [
+		"Other"
+	],
+	"displayName": "Milk.JS",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "wtbudgie",
+	"license": "ISC",
+	"icon": "./assets/icon.png",
+	"readme": "./readm.md",
+	"homepage": "https://discord.gg/QAvs5B6xwY"
+}
